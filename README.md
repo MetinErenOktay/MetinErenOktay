@@ -17,5 +17,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metinerenoktay&" alt="metinerenoktay" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metinerenoktay&" alt="metinerenoktay" width="480"/></p>
 
