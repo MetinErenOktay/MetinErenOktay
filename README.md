@@ -1,7 +1,7 @@
 <img src="https://lh3.googleusercontent.com/FHZeWJpzADtbElkIXZVjZrGCeqZOcu9cAwmTBtvjfWLyuRkkIcaWXMiVhZN1F6H3HjXoG67CSqlytC8bGiuxNUcH1Gt1XDcDRv7jBDVi9wh3nh2UGUk41aWBv5ow4XqZTCPye8e5AjyvmHBPeruWP3k0ZfEp7C0HQw8lS24jnL5iEeihvDdUUT9EkVQ9dXW-TCawtVw9FSjP7w--l-TQw1yBnVJaDQdL80fgMUBUBEtNaQATceY3OWjgc6D_VFflN1BgrOQ8lu6MSPk5ipdIV_qzYo7Qmcj7Q07qGYEheVbWCRuNv3lKyUiHUmldhGlDnH2r6UfiA5F95-oFR9TA5lexZYKhOInbm6ZJ2lVHKIUgtgBk3oiSgTPUv203ykgXWoKllCkutHZLhrP3bm_T_o8_rOVAgkAg9shm1Zk4Ni0w8JieCwdvAVHVeIFTYQw2rgoeJiEZl7Ba3ki9uuUSzPyqF0GzhAfav_wDMFTb8nbEfPdVosFiU5u27XgtN-Tx-Wm5s0L_jyjXnFdAWd2CNuz_PbWSqCtbd00t14F_5zmlDWDiDbCSISX93W3FXfYiOYNGtsHdaX2D5LCugXVJLAPNgTfn659fDboTv02LF7ZiBrM9_Tt5AfEZhLla_cKOnFE__OxlQY6iKbMm4CnYmlccfierjI-IiWTihNZLtTPBa61PLkG3r4Wdr0ekLFX3_D7ZIRVpYxvNzJ_8FSnxj4VO6n9KQGWorYNI0SY8nghQrLwtiw5f4JvBOzjuJwXj6IFHdP-ChT4caqICHnwFf3rVAGBKsckyRZWOLuWzPpnaEUZ4wLihQSh9YR2SRh9nPKLNqNIjv-XfDL1PyDKu9_dhp111cUTlA8Rj5Cz114lkxDvcWsTk_zeEqq1cjgUCwjp0PHm9JLCKEKLeabClUm4kU4DqInLkEKdhbF3rZbbwLfhftymWOZSf2B3cyWy-p1sybfi175rl0YLvfg=w1024-h600-s-no?authuser=0" alt="MasterHead" width="1500" height="300"> 
 </a>
 <h1 align="center">Hi 👋, I'm Metin Eren Oktay</h1>
-<h3 align="center">A computer engineering student at Hacettepe University</h3>
+<h3 align="center">A computer engineer graduated from Hacettepe University</h3>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/W9_8dfFmyr0AAAAd/pixel-game.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metinerenoktay&label=Profile%20views&color=0e75b6&style=flat" alt="metinerenoktay" /> </p>
 
